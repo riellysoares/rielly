@@ -1,0 +1,15 @@
+C:\Users\manha.cetafest\Desktop\rielly26\rielly\projeto26\projeto26\bin\Debug\net9.0\projeto26.exe
+C:\Users\manha.cetafest\Desktop\rielly26\rielly\projeto26\projeto26\bin\Debug\net9.0\projeto26.deps.json
+C:\Users\manha.cetafest\Desktop\rielly26\rielly\projeto26\projeto26\bin\Debug\net9.0\projeto26.runtimeconfig.json
+C:\Users\manha.cetafest\Desktop\rielly26\rielly\projeto26\projeto26\bin\Debug\net9.0\projeto26.dll
+C:\Users\manha.cetafest\Desktop\rielly26\rielly\projeto26\projeto26\bin\Debug\net9.0\projeto26.pdb
+C:\Users\manha.cetafest\Desktop\rielly26\rielly\projeto26\projeto26\obj\Debug\net9.0\projeto26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manha.cetafest\Desktop\rielly26\rielly\projeto26\projeto26\obj\Debug\net9.0\projeto26.AssemblyInfoInputs.cache
+C:\Users\manha.cetafest\Desktop\rielly26\rielly\projeto26\projeto26\obj\Debug\net9.0\projeto26.AssemblyInfo.cs
+C:\Users\manha.cetafest\Desktop\rielly26\rielly\projeto26\projeto26\obj\Debug\net9.0\projeto26.csproj.CoreCompileInputs.cache
+C:\Users\manha.cetafest\Desktop\rielly26\rielly\projeto26\projeto26\obj\Debug\net9.0\projeto26.sourcelink.json
+C:\Users\manha.cetafest\Desktop\rielly26\rielly\projeto26\projeto26\obj\Debug\net9.0\projeto26.dll
+C:\Users\manha.cetafest\Desktop\rielly26\rielly\projeto26\projeto26\obj\Debug\net9.0\refint\projeto26.dll
+C:\Users\manha.cetafest\Desktop\rielly26\rielly\projeto26\projeto26\obj\Debug\net9.0\projeto26.pdb
+C:\Users\manha.cetafest\Desktop\rielly26\rielly\projeto26\projeto26\obj\Debug\net9.0\projeto26.genruntimeconfig.cache
+C:\Users\manha.cetafest\Desktop\rielly26\rielly\projeto26\projeto26\obj\Debug\net9.0\ref\projeto26.dll
